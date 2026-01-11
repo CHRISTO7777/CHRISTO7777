@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Christo Biju
 
-<!--
-**CHRISTO7777/CHRISTO7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student specializing in **AI & Robotics**, passionate about building practical projects and learning how technology solves real-world problems. I enjoy exploring web development, machine learning, and system-level programming.
 
-Here are some ideas to get you started:
+## 🚀 What I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Learning **Web Development** (HTML, CSS, JavaScript, Node.js)
+* Building small projects to strengthen my **problem-solving skills**
+* Exploring **AI, cybersecurity, and robotics**
+* Improving my **coding fundamentals** and GitHub workflow
+
+## 🛠️ Tools & Technologies I use
+
+* **Languages:** Python, C, C++, JavaScript
+* **Frontend:** HTML, CSS, Flutter (basic)
+* **Tools:** VS Code, GitHub, Git
+* **Interests:** Machine Learning, Ethical Hacking, Robotics
+
+📍 Based in Kerala, India
+🌱 Always learning, always building
