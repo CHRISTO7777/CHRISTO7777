@@ -16,5 +16,4 @@ I'm a Computer Science student specializing in **AI & Robotics**, passionate abo
 * **Tools:** VS Code, GitHub, Git
 * **Interests:** Machine Learning, Ethical Hacking, Robotics
 
-📍 Based in Kerala, India
-🌱 Always learning, always building
+
